@@ -75,7 +75,7 @@ The general form of a write value command is (prefix ommited):
 
 | Value | Description      |
 |-------|------------------|
-| 01    | Read value       |
+| 02    | Write value       |
 | 00    |                  |
 | pp    | Parameter **pp** |
 | bb    | Button ID **bb** |
